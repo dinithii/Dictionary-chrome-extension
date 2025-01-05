@@ -1,0 +1,10 @@
+{
+    "name": "English Dictionary",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "You can look up definitions for any English word",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html"
+    }
+}
